@@ -1,0 +1,12 @@
+This plugin will read an un-DRM'd ebook file (EPUB/KEPUB/AZW3) and create an external copy with scrambled text content.
+
+The aim is to create a book sufficiently obscured to allow a full upload to the MobileRead forums without breach of copyright.
+
+It should make it easier for MobileRead members to request and offer help with problematic ebooks.
+
+The book can be either:
+-- in your calibre library
+-- on an ereader device whose contents are visible to calibre
+
+N.B: 
+This plugin has been sanctioned by the MobileRead Moderator Team who were instrumental in setting the rules about what must be scrambled and what can remain intact for upload to be permissible. The rules are subject to change if circumstances change.
